@@ -1,0 +1,12 @@
+# Compiled executables
+*.exe
+*.out
+Sudoku_Solver
+
+# IDE/editor files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
